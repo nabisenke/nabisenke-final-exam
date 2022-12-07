@@ -1,0 +1,47 @@
+div.maindiv{
+    background-color: rgb(25, 161, 202);
+    width: 20%;
+    margin-left: 0%;
+    padding: 10px;
+    height: 100px;
+   text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(218, 12, 98);
+}
+li a{
+    color: rgb(248, 108, 15);
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  l1 a:hover{
+  
+  background-color: rgb(218, 12, 98);
+    
+  }
+
+  div.K{
+
+    background-color: rgb(90, 233, 24);
+    width: 500px;
+    height: 300px;
+    margin-left: 10px;
+    float: left; 
+  }
+
+
+  div.Z{
+
+    background-color: rgb(11, 221, 221);
+    width: 500px;
+    height: 300px;
+    margin-left: 10px;
+    float: left; 
+
+  }
+  
